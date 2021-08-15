@@ -16,19 +16,19 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=FazleyBin-Mahbub&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on - Frontend Development
 
-- 🌱 I’m currently learning **HTML,CSS,JS,React**
+- 🌱 I’m currently learning - HTML,CSS,JS,React
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on - Open Source
 
-- 🤝 I’m looking for help with **Frondend development**
+- 🤝 I’m looking for help with - Frondend development
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about - anything
+- 
+- 📫 How to reach me - mdrabbihossen.dev@gmail.com 
 
-- 📫 How to reach me **mdrabbihossen.dev@gmail.com **
-
-- ⚡ Fun fact **I am too lazy**
+- ⚡ Fun fact - I am too lazy😁
 
 <h3 align="center">Connect with me:</h3>
 
@@ -77,5 +77,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FazleyBin-Mahbub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="FazleyBin-Mahbub" /></p>
 
-
-{"mode":"full","isActive":false}
