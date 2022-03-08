@@ -67,6 +67,7 @@
 ![NPM](https://img.shields.io/badge/-npm-1A1B27?style=flat&logo=npm&labelColor=252526)
 <!-- ![ESlint](https://img.shields.io/badge/-ESlint-1A1B27?style=flat&logo=ESlint&labelColor=4B32C3) -->
 ![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-1A1B27?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 
 </h3>
 
