@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazley Bin Mahbub</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate flutter developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FazleyBin-Mahbub&label=Profile%20views&color=4DC71F&style=flat" alt="FazleyBin-Mahbub" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
@@ -16,7 +16,7 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=FazleyBin-Mahbub&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on - Frontend Development
+- 🔭 I’m currently working on - Flutter
 
 - 🌱 I’m currently learning - Flutter
 
@@ -25,7 +25,7 @@
 - 🤝 I’m looking for help with - Flutter
 
 - 💬 Ask me about - anything
-- 
+ 
 - 📫 How to reach me - mdrabbihossen.dev@gmail.com 
 
 - ⚡ Fun fact - I am too lazy😁
