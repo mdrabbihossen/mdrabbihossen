@@ -36,7 +36,7 @@
 <h3 align="center">
     
 [![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/fazleybinmahbub26/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/fazleybinmahbub26/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/mdrabbihossen/)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)
 
 </h3>
