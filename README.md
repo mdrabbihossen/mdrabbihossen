@@ -6,8 +6,8 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FazleyBin-Mahbub&label=Profile%20views&color=4DC71F&style=flat" alt="FazleyBin-Mahbub" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdrabbihossen&label=Profile%20views&color=4DC71F&style=flat" alt="mdrabbihossen" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/badge/Age-22-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
     <img src="https://img.shields.io/badge/Focus-Mobile Application Development-brighteen"/> 
@@ -18,7 +18,7 @@
      </p>
 
  <p align="center" >
-  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=FazleyBin-Mahbub&column=8&theme=onedark&no-frame=true"/>
+  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=mdrabbihossen&column=8&theme=onedark&no-frame=true"/>
 </p>
 
 - 🔭 I’m currently working on **Mobile Application Development**
@@ -73,13 +73,13 @@
 
 <h4 align="center"><strong>Top langs:</strong></h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazleyBin-Mahbub&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrabbihossen&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FazleyBin-Mahbub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="FazleyBin-Mahbub" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrabbihossen&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="mdrabbihossen" /></p>
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FazleyBin-Mahbub&custom_title=FazleyBin-Mahbub's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrabbihossen&custom_title=mdrabbihossen's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
