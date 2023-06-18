@@ -77,10 +77,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrabbihossen&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="mdrabbihossen" /></p>
 
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdrabbihossen&custom_title=mdrabbihossen's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
+ 
